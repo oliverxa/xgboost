@@ -21,6 +21,10 @@ conda install -n xgboost ipykernel
 python -m ipykernel install --user --name xgboost --display-name "xgboost"
 </code></pre>
 
+## In conda environment and start jupyter notebook
+<pre><code>jupyter notebook
+</code></pre>
+
 
 
 
